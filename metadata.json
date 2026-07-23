@@ -1,0 +1,6 @@
+{
+  "name": "SIMAG Kesbangpol Pematangsiantar",
+  "description": "Sistem Informasi Pendaftaran PKL dan Magang Kesbangpol Kota Pematangsiantar berbasis QR Code dengan integrasi dashboard admin dan ekspor dokumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
