@@ -193,7 +193,7 @@ export default function Header({ currentView, onChangeView, onResetToQR }: Heade
                 {/* QR Image */}
                 <div className="bg-white p-3 rounded-xl border border-slate-200 shadow-inner">
                   <QRCode
-                    value="https://simag-kesbangpol.vercel.app/"
+                    value="https://simag-kesbangpol1.vercel.app/"
                     size={200}
                     level="H"
                     bgColor="#FFFFFF"
