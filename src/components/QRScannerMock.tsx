@@ -80,7 +80,7 @@ export default function QRScannerMock({ onScanSuccess }: QRScannerMockProps) {
                   </motion.div>
                 ) : (
                   <QRCode
-                      value="https://simag-kesbangpol.vercel.app/"
+                      value="https://simag-kesbangpol1.vercel.app/"
                       size={180}
                       level="H"
                       bgColor="#FFFFFF"
