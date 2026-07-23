@@ -202,7 +202,7 @@ export default function Header({ currentView, onChangeView, onResetToQR }: Heade
                 </div>
 
                 <p className="text-[11px] font-semibold text-slate-800 mt-3 font-mono bg-slate-100 px-3 py-1 rounded-full border border-slate-200">
-                  https://simag-kesbangpol.vercel.app/
+                  https://simag-kesbangpol1.vercel.app/
                 </p>
               </div>
 
